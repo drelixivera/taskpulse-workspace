@@ -57,24 +57,3 @@ cd taskpulse
      npm start
    
 Open your browser and navigate to http://localhost:5173
-
-📁 Project Structure
-taskpulse/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Board.jsx   
-│   │   ├── Column.jsx           
-│   │   ├── TaskCard.jsx   
-│   │   ├── TaskModal.jsx         
-│   │   ├── OnboardingModal.jsx   
-│   │   ├── Navbar.jsx            
-│   │   ├── Footer.jsx            
-│   │   └── Toast.jsx             
-│   ├── data/
-│   │   └── initialData.js        
-│   ├── App.jsx                  
-│   ├── index.css                  
-│   └── main.jsx                 
-├── package.json
-└── README.md
